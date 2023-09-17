@@ -1,4 +1,4 @@
-const DELAY = 30;
+const DELAY = 1;
 
 let history = [
 
